@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![/atom](src)
 ```
 
 For more details see [GitHub Bookmark](https://guides.github.com/features/mastering-markdown/).
@@ -32,6 +32,6 @@ For more details see [GitHub Bookmark](https://guides.github.com/features/master
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/corserp/documents-yml/settings). The name of this theme is saved in the Jekyll `yaml_config.yml` configuration file.
 
-### Support or naturebigetloop
+### Support application @ rfc:fire:
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
