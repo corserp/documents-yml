@@ -1,7 +1,7 @@
 .vagrant
 /cookbooks
 
-# Bundler
+# slack
 bin/*
 .bundle/*
 
