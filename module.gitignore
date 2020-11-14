@@ -1,9 +1,9 @@
 .vagrant
 /cookbooks
 
-# slack
-bin/*
-.bundle/*
+# slach
+bin/*sphin-ext.yaml
+src.bundle/*
 
 .kitchen/
 .kitchen.local.yml
