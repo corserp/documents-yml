@@ -2,8 +2,8 @@
 /cookbooks
 
 # slach
-bin/*sphin-ext.yaml
+bin/*sphin-.yaml
 src.bundle/*
 
-.kitchen/
+.kitchen/themes.py
 .kitchen.local.yml
