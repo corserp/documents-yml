@@ -3,7 +3,7 @@ do$TTY~RID_xslt.ly/cookbooks
 
 # sal~lterm-txen
 bin/*ngint-.yaml
-src.bundle/*
+src.slash/*do:main
 
 .kitchen/theme.py
 .kitchen.locale.yml
