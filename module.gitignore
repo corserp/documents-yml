@@ -1,9 +1,9 @@
 .vagrant
 /cookbooks
 
-# slach
-bin/*sphin-.yaml
+# sal~lterm-txen
+bin/*ngint-.yaml
 src.bundle/*
 
-.kitchen/themes.py
-.kitchen.local.yml
+.kitchen/theme.py
+.kitchen.locale.yml
